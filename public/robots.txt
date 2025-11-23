@@ -1,14 +1,10 @@
 # Robots.txt for Mr.G Barbers & Academy
-# https://www.mrgbarbers.lt
+# https://mrgbarbers.lt
 
 User-agent: *
 Allow: /
 
-# Disallow admin or private areas (if any in future)
-# Disallow: /admin/
+Sitemap: https://mrgbarbers.lt/sitemap.xml
 
-# Sitemap location
-Sitemap: https://www.mrgbarbers.lt/sitemap.xml
-
-# Crawl-delay (optional, uncomment if needed)
+# Optional: slow down aggressive crawlers (commented out)
 # Crawl-delay: 10
